@@ -62,3 +62,66 @@ BP 3rd Person Game 06 Basic Character Material 06 v4.8 Tutorial
 11:00  
 
 BP 3rd Person Game 07 Blend Spaces 07 v4.8 Tutorial Series Unre  
+00:00
+04:30 *  
+09:00
+
+BP 3rd Person Game 08 Intro to Animation Blueprints 08 v4.8 Tut  
+00:45 *  
+
+BP 3rd Person Game 09 Intro to State Machines 09 v4.8 Tutorial   
+00:00 only theory  
+
+BP 3rd Person Game 10 Building the AnimGraph 10 v4.8 Tutorial S
+00:00 *  
+12:15 *  
+13:15 *  
+
+BP 3rd Person Game 11 Animation BP EventGraph 11 v4.8 Tutorial   
+00:00 *  
+
+BP 3rd Person Game 12 Character BP Components 12 v4.8 Tutorial   
+00:00 *  
+02:00 *  
+
+BP 3rd Person Game 13 Character Keyboard & Mouse Controls 13 v4  
+00:00 *  
+
+BP 3rd Person Game 14 Game Mode & Testing 14 v4.8 Tutorial Seri  
+00:00 *  
+06:00  
+06:45 *  
+12:30 *  
+14:45  
+15:00  
+
+BP 3rd Person Game 15 Character Gamepad & Touch Controls 15 v4.  
+01:00 *  
+03:25 *  
+09:05  
+09:50 *  
+13:00  
+
+BP 3rd Person Game 16 Intro to Animation Montage 16 v4.8 Tutori  
+00:00 only theory  
+
+BP 3rd Person Game 17 Skeleton Retargeting & Montage Setup 17 v  
+00:00 *  
+
+BP 3rd Person Game 18 Animation BP Punching Setup 18 v4.8 Tutor  
+00:00 *  
+
+BP 3rd Person Game 19 Playing Our Animation Montage 19 v4.8 Tut  
+00:00 *  
+
+BP 3rd Person Game 20 Using Slot Nodes & Branch Points 20 v4.8   
+00:00 *  
+02:20  
+02:50 *  
+07:35  
+
+BP 3rd Person Game 21 Add Physics Components for Punching 21 v4  
+00:00 *  
+
+BP 3rd Person Game 22 Creating Animation Notifies 22 v4.8 Tutor  
+00:00 *  
