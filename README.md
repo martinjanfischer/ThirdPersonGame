@@ -30,16 +30,17 @@ with TortoiseGit see [here](http://joelabrahamsson.com/remote-branches-with-tort
 
 ## Links and Timestamps of Tutorial Videos
 BP 3rd Person Game 02 Project Creation & FBX Download 02 v4.8 T  
-https://www.youtube.com/watch?v=rMOuDw5jnmk&index=2&list=PLZlv_N0_O1ga0IoRrpI4xkX4qmCrhGu56
+https://www.youtube.com/watch?v=rMOuDw5jnmk&index=2&list=PLZlv_N0_O1ga0IoRrpI4xkX4qmCrhGu56  
 00:00 *  
 01:46 *  
 03:20  
 
 BP 3rd Person Game 03 FBX Importing & Using Skeletons 03 v4.8 T  
-00:45 *  
+https://www.youtube.com/watch?v=BJrHGwDkAGw&index=3&list=PLZlv_N0_O1ga0IoRrpI4xkX4qmCrhGu56  
+00:45 *  https://youtu.be/BJrHGwDkAGw?list=PLZlv_N0_O1ga0IoRrpI4xkX4qmCrhGu56&t=43  
 01:00  
 02:15  
-08:10 *  
+08:10 *  https://youtu.be/BJrHGwDkAGw?list=PLZlv_N0_O1ga0IoRrpI4xkX4qmCrhGu56&t=498  
 10:20  
 11:05 *  
 13:05  
