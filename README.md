@@ -46,8 +46,9 @@ https://www.youtube.com/watch?v=BJrHGwDkAGw&index=3&list=PLZlv_N0_O1ga0IoRrpI4xk
 13:05  
 
 BP 3rd Person Game 04 Intro to Persona 04 v4.8 Tutorial Series  
+https://www.youtube.com/watch?v=dPprPiUgSyw&list=PLZlv_N0_O1ga0IoRrpI4xkX4qmCrhGu56&index=4  
 00:00  
-01:08 *  
+01:08 *  https://youtu.be/dPprPiUgSyw?list=PLZlv_N0_O1ga0IoRrpI4xkX4qmCrhGu56&t=69  
 09:10  
 
 BP 3rd Person Game 05 Setting Up Inputs 05 v4.8 Tutorial Series  
