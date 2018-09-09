@@ -52,9 +52,10 @@ https://www.youtube.com/watch?v=dPprPiUgSyw&list=PLZlv_N0_O1ga0IoRrpI4xkX4qmCrhG
 09:10  
 
 BP 3rd Person Game 05 Setting Up Inputs 05 v4.8 Tutorial Series  
+https://www.youtube.com/watch?v=0pJmADwMkqQ&index=5&list=PLZlv_N0_O1ga0IoRrpI4xkX4qmCrhGu56  
 00:00  
-00:37 *  
-08:40 *  
+00:37 *  https://youtu.be/0pJmADwMkqQ?list=PLZlv_N0_O1ga0IoRrpI4xkX4qmCrhGu56&t=37
+08:40 *  https://youtu.be/0pJmADwMkqQ?list=PLZlv_N0_O1ga0IoRrpI4xkX4qmCrhGu56&t=44
 10:35  
 
 BP 3rd Person Game 06 Basic Character Material 06 v4.8 Tutorial  
