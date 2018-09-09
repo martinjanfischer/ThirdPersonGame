@@ -59,6 +59,7 @@ https://www.youtube.com/watch?v=0pJmADwMkqQ&index=5&list=PLZlv_N0_O1ga0IoRrpI4xk
 10:35  
 
 BP 3rd Person Game 06 Basic Character Material 06 v4.8 Tutorial  
+https://www.youtube.com/watch?v=Xhb3rFYTxIA&index=6&list=PLZlv_N0_O1ga0IoRrpI4xkX4qmCrhGu56  
 00:35 *  
 02:25 *  
 08:42 *  
