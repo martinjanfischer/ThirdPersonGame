@@ -73,13 +73,15 @@ https://www.youtube.com/watch?v=7b9WM8TVdpA&list=PLZlv_N0_O1ga0IoRrpI4xkX4qmCrhG
 09:00
 
 BP 3rd Person Game 08 Intro to Animation Blueprints 08 v4.8 Tut  
-https://www.youtube.com/watch?v=Mr7q5Cfjj7c&index=8&list=PLZlv_N0_O1ga0IoRrpI4xkX4qmCrhGu56
+https://www.youtube.com/watch?v=Mr7q5Cfjj7c&index=8&list=PLZlv_N0_O1ga0IoRrpI4xkX4qmCrhGu56  
 00:45 *  
 
-BP 3rd Person Game 09 Intro to State Machines 09 v4.8 Tutorial   
+BP 3rd Person Game 09 Intro to State Machines 09 v4.8 Tutorial  
+https://www.youtube.com/watch?v=NYFeFUxU6DI&index=9&list=PLZlv_N0_O1ga0IoRrpI4xkX4qmCrhGu56  
 00:00 only theory  
 
-BP 3rd Person Game 10 Building the AnimGraph 10 v4.8 Tutorial S
+BP 3rd Person Game 10 Building the AnimGraph 10 v4.8 Tutorial S  
+https://www.youtube.com/watch?v=gTTx17qLK-o&list=PLZlv_N0_O1ga0IoRrpI4xkX4qmCrhGu56&index=10
 00:00 *  
 12:15 *  
 13:15 *  
