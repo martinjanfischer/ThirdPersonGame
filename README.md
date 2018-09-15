@@ -73,6 +73,7 @@ https://www.youtube.com/watch?v=7b9WM8TVdpA&list=PLZlv_N0_O1ga0IoRrpI4xkX4qmCrhG
 09:00
 
 BP 3rd Person Game 08 Intro to Animation Blueprints 08 v4.8 Tut  
+https://www.youtube.com/watch?v=Mr7q5Cfjj7c&index=8&list=PLZlv_N0_O1ga0IoRrpI4xkX4qmCrhGu56
 00:45 *  
 
 BP 3rd Person Game 09 Intro to State Machines 09 v4.8 Tutorial   
