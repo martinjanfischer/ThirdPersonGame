@@ -67,6 +67,7 @@ https://www.youtube.com/watch?v=Xhb3rFYTxIA&index=6&list=PLZlv_N0_O1ga0IoRrpI4xk
 11:00  
 
 BP 3rd Person Game 07 Blend Spaces 07 v4.8 Tutorial Series Unre  
+https://www.youtube.com/watch?v=7b9WM8TVdpA&list=PLZlv_N0_O1ga0IoRrpI4xkX4qmCrhGu56&index=7  
 00:00
 04:30 *  
 09:00
