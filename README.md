@@ -87,6 +87,7 @@ https://www.youtube.com/watch?v=gTTx17qLK-o&list=PLZlv_N0_O1ga0IoRrpI4xkX4qmCrhG
 13:15 *  
 
 BP 3rd Person Game 11 Animation BP EventGraph 11 v4.8 Tutorial   
+https://www.youtube.com/watch?v=O4LNvsFyuLM&list=PLZlv_N0_O1ga0IoRrpI4xkX4qmCrhGu56&index=11  
 00:00 *  
 
 BP 3rd Person Game 12 Character BP Components 12 v4.8 Tutorial   
