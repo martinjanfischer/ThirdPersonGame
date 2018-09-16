@@ -91,13 +91,16 @@ https://www.youtube.com/watch?v=O4LNvsFyuLM&list=PLZlv_N0_O1ga0IoRrpI4xkX4qmCrhG
 00:00 *  
 
 BP 3rd Person Game 12 Character BP Components 12 v4.8 Tutorial   
+https://www.youtube.com/watch?v=rMolbbWOlEs&list=PLZlv_N0_O1ga0IoRrpI4xkX4qmCrhGu56&index=12  
 00:00 *  
 02:00 *  
 
 BP 3rd Person Game 13 Character Keyboard & Mouse Controls 13 v4  
+https://www.youtube.com/watch?v=IIIpZ_7RaEM&list=PLZlv_N0_O1ga0IoRrpI4xkX4qmCrhGu56&index=13  
 00:00 *  
 
 BP 3rd Person Game 14 Game Mode & Testing 14 v4.8 Tutorial Seri  
+https://www.youtube.com/watch?v=r2flZ-rqQ2k&index=14&list=PLZlv_N0_O1ga0IoRrpI4xkX4qmCrhGu56  
 00:00 *  
 06:00  
 06:45 *  
@@ -106,6 +109,7 @@ BP 3rd Person Game 14 Game Mode & Testing 14 v4.8 Tutorial Seri
 15:00  
 
 BP 3rd Person Game 15 Character Gamepad & Touch Controls 15 v4.  
+https://www.youtube.com/watch?v=XHHAjRVBc9Y&index=15&list=PLZlv_N0_O1ga0IoRrpI4xkX4qmCrhGu56  
 01:00 *  
 03:25 *  
 09:05  
@@ -113,25 +117,32 @@ BP 3rd Person Game 15 Character Gamepad & Touch Controls 15 v4.
 13:00  
 
 BP 3rd Person Game 16 Intro to Animation Montage 16 v4.8 Tutori  
+https://www.youtube.com/watch?v=fkbftFEEmx8&index=16&list=PLZlv_N0_O1ga0IoRrpI4xkX4qmCrhGu56  
 00:00 only theory  
 
 BP 3rd Person Game 17 Skeleton Retargeting & Montage Setup 17 v  
+https://www.youtube.com/watch?v=5DR7pxGouWE&index=17&list=PLZlv_N0_O1ga0IoRrpI4xkX4qmCrhGu56  
 00:00 *  
 
 BP 3rd Person Game 18 Animation BP Punching Setup 18 v4.8 Tutor  
+https://www.youtube.com/watch?v=gwD66cYmwQE&index=18&list=PLZlv_N0_O1ga0IoRrpI4xkX4qmCrhGu56  
 00:00 *  
 
 BP 3rd Person Game 19 Playing Our Animation Montage 19 v4.8 Tut  
+https://www.youtube.com/watch?v=200-D0A3ntU&list=PLZlv_N0_O1ga0IoRrpI4xkX4qmCrhGu56&index=19  
 00:00 *  
 
 BP 3rd Person Game 20 Using Slot Nodes & Branch Points 20 v4.8   
+https://www.youtube.com/watch?v=6aZbnldZjeM&list=PLZlv_N0_O1ga0IoRrpI4xkX4qmCrhGu56&index=20  
 00:00 *  
 02:20  
 02:50 *  
 07:35  
 
 BP 3rd Person Game 21 Add Physics Components for Punching 21 v4  
+https://www.youtube.com/watch?v=C_JCtGNW5D8&index=21&list=PLZlv_N0_O1ga0IoRrpI4xkX4qmCrhGu56  
 00:00 *  
 
 BP 3rd Person Game 22 Creating Animation Notifies 22 v4.8 Tutor  
+https://www.youtube.com/watch?v=clWHpTtgTOw&index=22&list=PLZlv_N0_O1ga0IoRrpI4xkX4qmCrhGu56  
 00:00 *  
